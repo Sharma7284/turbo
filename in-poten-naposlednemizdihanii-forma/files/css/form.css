@@ -674,7 +674,7 @@ a.button:hover {
     margin-top: 120px;
 }
 
-#comments a {
+#comments .order {
     background: linear-gradient(45deg, red, yellow);
 }
 
@@ -723,7 +723,7 @@ a.button:hover {
 }
 
 @media screen and (max-width: 560px) {
-    #comments a {
+    #comments .order {
         position: fixed;
         right: 5px;
         bottom: -20px;
